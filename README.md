@@ -1,4 +1,9 @@
-### Hi there 👋
+###🔭About Me 
+안녕하세요! 김수연입니다.
+
+###Contact 
+Email : yeonee230@gmail.com 
+Blog : https://yeonee230.tistory.com/
 
 <!--
 **yeonee230/yeonee230** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
