@@ -1,7 +1,8 @@
-###🔭About Me 
+🔭About Me 
 안녕하세요! 김수연입니다.
 
-###Contact 
+
+Contact 
 Email : yeonee230@gmail.com 
 Blog : https://yeonee230.tistory.com/
 
