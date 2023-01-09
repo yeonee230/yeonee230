@@ -4,7 +4,6 @@
 
 안녕하세요! 김수연입니다.
 
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 
 
 
@@ -17,6 +16,8 @@ Email : yeonee230@gmail.com
 Blog : https://yeonee230.tistory.com/
 
 <!--
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+
 **yeonee230/yeonee230** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
