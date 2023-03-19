@@ -10,7 +10,7 @@
 ## Contact 
 
 Email : yeonee230@gmail.com </br>
-Portfilo Site : </br>
+Portfolio Site : </br>
 Blog : https://yeonee230.tistory.com/ </br>
 
 <!--
