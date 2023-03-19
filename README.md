@@ -1,19 +1,17 @@
-🔭About Me 
-
-
-
-안녕하세요! 김수연입니다.
-
+## 🔭About Me </br>
+안녕하세요! </br>
+관찰하는 개발자 김수연입니다.
 
 
 
 
 
-Contact 
 
-Email : yeonee230@gmail.com 
+## Contact 
 
-Blog : https://yeonee230.tistory.com/
+Email : yeonee230@gmail.com </br>
+Portfilo Site : </br>
+Blog : https://yeonee230.tistory.com/ </br>
 
 <!--
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
