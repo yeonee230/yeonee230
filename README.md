@@ -7,7 +7,7 @@
 
 Email : yeonee230@gmail.com </br>
 Portfolio Site : </br>
-Blog : https://yeonee230.tistory.com/ </br>
+
 
 
 ### Skills
