@@ -1,16 +1,13 @@
 ### 🔭 About Me </br>
 안녕하세요! </br>
-관찰하는 개발자 김수연입니다.
+관찰하는 개발자 **김수연** 입니다. </br>
+**사용자 중심의 개발, 커뮤니케이션, 문제 해결 능력**을 중요하게 생각하고, </br> 이를 지속적으로 발전시키기 위해 노력하고 있습니다. 
 
+📧 yeonee230@gmail.com </br>
+<!-- ### Contact 
+Portfolio Site : </br> -->
 
-### Contact 
-
-Email : yeonee230@gmail.com </br>
-Portfolio Site : </br>
-
-
-
-### Skills
+### 🛠️ Skills
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PUG](https://img.shields.io/badge/Pug-A86454.svg?style=for-the-badge&logo=Pug&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-CC6699.svg?style=for-the-badge&logo=SASS&logoColor=white) <br />
 
